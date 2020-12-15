@@ -1,0 +1,22 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "node-sass -w assets/scss/ -o assets/css -r "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Basemsisy/ecommerce.git"
+  },
+  "author": "Basem Elsisy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Basemsisy/ecommerce/issues"
+  },
+  "homepage": "https://github.com/Basemsisy/ecommerce#readme",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
